@@ -2,7 +2,8 @@
 
 * [Holacracy Wiki](README.md)
 
-## 用語辞典
+## 用語辞典 <a id="terms"></a>
 
-* [憲法](yong-yu-ci-dian/xian-fa.md)
+* [憲法](terms/xian-fa.md)
+* [パートナー](terms/pton.md)
 
