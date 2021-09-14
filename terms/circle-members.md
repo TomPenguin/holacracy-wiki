@@ -1,14 +1,14 @@
 ---
-description: Circle Lead
+description: Circle Members
 ---
 
-# サークルリード
+# サークルメンバー
 
 ### 概要
 
 ### 関連用語
 
-* [ロールリード](role-lead.md)
 * [サークル](circle.md)
+* [サークルリード](circle-lead.md)
 * [サークルレップ](circle-rep.md)
 
