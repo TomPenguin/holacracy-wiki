@@ -4,6 +4,7 @@
 
 ## 基礎知識 <a id="elementary-knowledge"></a>
 
+* [ホラクラシーとは](elementary-knowledge/what-is-holacracy.md)
 * [用語辞典](elementary-knowledge/terms/README.md)
   * [ネクストアクション](elementary-knowledge/terms/next-action.md)
   * [プロジェクト](elementary-knowledge/terms/project.md)
@@ -25,4 +26,10 @@
   * [憲法](elementary-knowledge/terms/constitution.md)
   * [パートナー](elementary-knowledge/terms/partners.md)
   * [サークル](elementary-knowledge/terms/circle.md)
+
+## コラム
+
+* [ホラクラシーの誤解](koramu/horakurashno.md)
+* [ホラクラシーの危険信号](koramu/horakurashno-2.md)
+* [なぜ上司がいないのに仕事ができるのか](koramu/nazegainainonigadekirunoka.md)
 
