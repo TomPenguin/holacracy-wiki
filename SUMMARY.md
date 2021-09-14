@@ -7,6 +7,7 @@
 * [憲法](terms/constitution.md)
 * [パートナー](terms/partners.md)
 * [ロール](terms/roles.md)
-* [目的](terms/purpose.md)
 * [ドメイン](terms/domain.md)
+* [目的](terms/purpose.md)
+* [責務](terms/accountability.md)
 

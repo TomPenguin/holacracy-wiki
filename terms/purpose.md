@@ -11,5 +11,5 @@ description: Purpose
 ### 関連用語
 
 * [ドメイン](domain.md)
-* 責務
+* [責務](accountability.md)
 
