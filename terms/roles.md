@@ -10,5 +10,6 @@ description: Roles
 
 ### 関連用語
 
-* サークル
+* [サークル](circle.md)
+* [ロールリード](role-lead.md)
 

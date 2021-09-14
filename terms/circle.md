@@ -9,4 +9,5 @@ description: Circle
 ### 関連用語
 
 * [ロール](roles.md)
+* [サークルリード](circle-lead.md)
 
