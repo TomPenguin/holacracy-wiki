@@ -12,4 +12,5 @@ description: Purpose
 
 * [ドメイン](domain.md)
 * [責務](accountability.md)
+* [ポリシー](policy.md)
 

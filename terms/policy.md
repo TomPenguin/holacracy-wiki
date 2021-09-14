@@ -1,8 +1,8 @@
 ---
-description: Accountability
+description: Policy
 ---
 
-# 責務
+# ポリシー
 
 ### 概要
 
@@ -10,7 +10,5 @@ description: Accountability
 
 * [目的](purpose.md)
 * [ドメイン](domain.md)
-* [ポリシー](policy.md)
-
-
+* [責務](accountability.md)
 

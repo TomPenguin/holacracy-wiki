@@ -6,8 +6,10 @@
 
 * [憲法](terms/constitution.md)
 * [パートナー](terms/partners.md)
+* [サークル](terms/circle.md)
 * [ロール](terms/roles.md)
-* [ドメイン](terms/domain.md)
 * [目的](terms/purpose.md)
+* [ドメイン](terms/domain.md)
 * [責務](terms/accountability.md)
+* [ポリシー](terms/policy.md)
 

@@ -12,4 +12,5 @@ description: Domain
 
 * [目的](purpose.md)
 * [責務](accountability.md)
+* [ポリシー](policy.md)
 
