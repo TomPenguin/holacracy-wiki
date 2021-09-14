@@ -7,5 +7,6 @@
 * [憲法](terms/xian-fa.md)
 * [パートナー](terms/pton.md)
 * [ロール](terms/rru.md)
-* [目的](terms/mu-de.md)
+* [目的](terms/purpose.md)
+* [ドメイン](terms/domein.md)
 
