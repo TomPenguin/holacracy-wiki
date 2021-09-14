@@ -5,7 +5,7 @@
 ## 用語辞典 <a id="terms"></a>
 
 * [憲法](terms/xian-fa.md)
-* [パートナー](terms/pton.md)
+* [パートナー](terms/partners.md)
 * [ロール](terms/roles.md)
 * [目的](terms/purpose.md)
 * [ドメイン](terms/domain.md)
