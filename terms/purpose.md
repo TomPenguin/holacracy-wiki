@@ -10,6 +10,6 @@ description: Purpose
 
 ### 関連用語
 
-* ドメイン
+* [ドメイン](domain.md)
 * 責務
 
