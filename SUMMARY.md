@@ -8,5 +8,5 @@
 * [パートナー](terms/pton.md)
 * [ロール](terms/rru.md)
 * [目的](terms/purpose.md)
-* [ドメイン](terms/domein.md)
+* [ドメイン](terms/domain.md)
 
