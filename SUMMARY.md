@@ -6,4 +6,5 @@
 
 * [憲法](terms/xian-fa.md)
 * [パートナー](terms/pton.md)
+* [ロール](terms/rru.md)
 
